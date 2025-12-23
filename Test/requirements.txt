@@ -1,0 +1,8 @@
+# 8-Puzzle Solver - Dependencies
+# Note: We're using built-in libraries (tkinter, sqlite3) so no external packages needed!
+# But if you want to enhance it later, you could add:
+# pygame==2.5.2  # For better graphics
+# matplotlib==3.8.2  # For statistics visualization
+
+
+
